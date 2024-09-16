@@ -19,7 +19,7 @@ const Horario = () =>{
                 <br />
                 <div className="text-3xl text-pink-50">{horario}</div>
                 <br />
-                <div className= "">{`Bom dia`}</div>
+                <div className= "font-bold text-lg">{`Bom dia`}</div>
             </div>
         )
     }
@@ -41,7 +41,7 @@ const Horario = () =>{
                 
                 <div className="text-3xl text-pink-50">{horario}</div>
                 
-                <div className= "">{`Boa Noite`}</div>
+                <div className= "font-bold text-lg">{`Boa Noite`}</div>
             </div>
         )
     }
